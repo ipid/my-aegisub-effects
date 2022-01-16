@@ -2,9 +2,13 @@
 
 Made by karaoke templates.
 
-## 01. Tiny Stars
+You are free to use all the styles and codes in the `.ass` files in any circumstances, but **the translations and lyrics are not allowed to use**.
 
-Subtitle of the song _Tiny Stars_ by `Liella!`.
+## 01. Tiny Stars / ときめきポポロン
+
+Subtitle of the song _Tiny Stars_ by *Liella!* and *ときめきポポロン* by *チマメ隊*.
+
+This is a style-tag-aware karaoke template. You can use `\1c` or `\r` to specify the text color, and the generated subtitle will have the same color as the settings.
 
 Demonstration:
 
